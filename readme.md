@@ -3,8 +3,8 @@
 Clone this repo:
 
 ```
-git clone git@github.com:fredngo/codepath-web103-fall-2023-lab-1-solution.git
-cd codepath-web103-fall-2023-lab-1-solution
+git clone https://github.com/iamshivakhatri/unearthed-2.git
+
 ```
 
 ## Install the Server
